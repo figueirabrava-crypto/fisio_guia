@@ -1,0 +1,6 @@
+{
+  "name": "FisioGuia - Fisiologia Humana por Figueirabrava",
+  "description": "App de auxílio à aprendizagem de Fisiologia Humana por Figueirabrava com banco de 300+ questões oficiais, quiz interativo com perguntas por voz, explicações em áudio e diagramas dos 6 sistemas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
